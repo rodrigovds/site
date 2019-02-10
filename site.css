@@ -1,0 +1,44 @@
+.body{
+
+background-image: url(https://thumbs.dreamstime.com/b/fundo-global-do-neg%C3%B3cio-do-conceito-da-inform%C3%A1tica-da-infinidade-36800829.jpg);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100%;
+}
+.branco{
+  height:6% ;
+  width: 6%;  
+}
+
+
+.menu {
+  
+    border-style: double;
+    height:10% ;
+    width: 20%;    
+    border-color: rgb(255, 255, 255);
+    float: left;
+    background-color: royalblue;
+    text-align: center;
+    text-decoration-style: double;
+    padding: -2%;
+    padding-left: 1%;
+
+        
+}
+.contato{
+    text-align: center;
+
+}
+a:link 
+{ 
+text-decoration:none; 
+
+}
+a.nounderline:link 
+{ 
+text-decoration:none; 
+} 
+a:visited{
+    color: black;
+}
